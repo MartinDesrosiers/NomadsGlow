@@ -64,6 +64,10 @@ sysinfo.txt
 *.unitypackage.meta
 *.app
 
+# === Python helper scripts at project root ===
+/assembly.py
+/foundation.py
+
 # Crashlytics generated file
 crashlytics-build.properties
 
